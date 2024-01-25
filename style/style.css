@@ -48,7 +48,7 @@
 /*для Десктоп*/
 @media screen and (min-width: 1024px) {
   .container {
-    border: 2px black solid;
+    /*border: 2px black solid;*/
     height: 80vh;
     width: 100vw;
     display: grid;
@@ -115,4 +115,4 @@
   .footer {
     display: none;
   }
-}/*# sourceMappingURL=style.css.map */
+} /*# sourceMappingURL=style.css.map */
